@@ -1,0 +1,58 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Raleway';
+}
+
+.navbar-brand {
+  font-family: 'Lobster';
+  font-weight: 800;
+  font-size: 2em;
+  margin-left: 3em;
+  margin-right: 5em:
+}
+
+.navbarNav {
+  text-align: right;
+}
+
+header {
+  background-image: url('../img/bg-hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+}
+
+.yo {
+  font-size: 6em;
+  margin-left: 2em;
+}
+
+.nombre {
+  font-family: 'Lobster';
+  font-size: 4em;
+  margin-left: 5em;
+}
+
+.experiencia {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.Titulo-trabajos {
+  font-family: 'Lobster';
+  color: #ffffff;
+}
+
+footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.texto-final {
+  font-family: 'Lobster';
+  font-size: 3em;
+}
